@@ -11,5 +11,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * creado por el increible jonathan
 *incluye ejemplos de windows y mac
-*
+*Disponible para todos los jodidos que quieran dejar de ser jodidos 
+
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO 
